@@ -1,4 +1,4 @@
-# COMMITED File
+# WORKING DIRECTORY, not staged nor commited.
 
 # Starter Web Repo
 
@@ -10,6 +10,10 @@ This is an example to show different parts of the Git repository and various com
 
 ## Purpose
 
+As stated above, the main purpose is to provide simple demo for git training.
+
 ## Deployment
+
+This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
